@@ -6,6 +6,4 @@ title: Home
 
 Keep this site quiet. ;)
 
-## Games!
-
-<a href="./GBAGames" target="_blank">Games</a>
+## <a href="./GBAGames" target="_blank">Games</a>
